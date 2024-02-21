@@ -12,3 +12,9 @@ let b = 4;
 const c = a+b;
 let jeff = 'schuman';
 ```
+
+
+Added a task list:
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
